@@ -1,0 +1,3 @@
+public: methods, member variables and class can be accessed from every where
+protected: methods, member variables and class can be accessed from same package, same class and subclass(both same and different package)
+private: class and interface can not be private; data members can be accessed from only same class.
